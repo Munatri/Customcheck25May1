@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeCustomcheck25May
+  gitServerName: CustomFlowGithub
+  gitUrl: https://github.com/Munatri/Customcheck25May1
+  gitUsername: Munatri
+  gitToken: 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
+  gitBranch: master
